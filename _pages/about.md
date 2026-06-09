@@ -5,5 +5,5 @@ author_profile: true
 redirect_from: 
   - /about/ "DEEP DIVE INTO ALL THINGS CINEMATC. DISSECTIING ACTION, THRILLER, HORROR EVEN A LITTLE BIT OF COMEDY. 
 
-  - /about.html "WHERE WE DISCUSS POP CULUTRE OVER POLITICS."
+  - /about.html 
 ---
