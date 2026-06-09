@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "SCREAM4MEPA"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+DEEP DIVE INTO ALL THINGS CINEMATC. DISSECTIING ACTION, THRILLER, HORROR EVEN A LITTLE BIT OF COMEDY. WHERE WE DISCUSS POP CULUTRE OVER POLITICS.
